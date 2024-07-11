@@ -1,0 +1,7 @@
+pyaudio
+wave
+threading
+queue
+transformers
+ollama
+torch
